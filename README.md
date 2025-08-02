@@ -189,22 +189,25 @@ Next, compare the medians of each variable for churned and retained users. The r
 
 ## Project Status
 
-🎯 Target Goal: 
+🎯 **Target Goal:**
 
 - Inspect user data to learn important relationships between variables.
+  
 
   
-🎯 Methods: 
+🎯 **Methods:**
 
 - Built a dataframe
   
 - Each row represents a single observation, and each column represents a single variable
 
 - Collected preliminary statistics
+  
 - Analyzed user behavior
+  
 
   
-🎯 Impact:
+🎯 **Impact:**
 
 - Our team determined important relationships between variables that will guide further analysis of user data
 
