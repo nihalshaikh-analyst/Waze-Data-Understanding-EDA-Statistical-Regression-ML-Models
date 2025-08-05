@@ -91,6 +91,69 @@ Waze’s data team is in the earliest stages of the churn project. The following
 - creative work and approach problem-solving!
 
 
+
+
+
+
+## Project Status
+
+🎯 **Target Goal:**
+
+- Inspect user data to learn important relationships between variables.
+  
+
+  
+🎯 **Methods:**
+
+- Built a dataframe
+  
+- Each row represents a single observation, and each column represents a single variable
+
+- Collected preliminary statistics
+  
+- Analyzed user behavior
+  
+
+  
+🎯 **Impact:**
+
+- Our team determined important relationships between variables that will guide further analysis of user data
+
+
+## Storytelling Finding and Persentation
+
+[Presentation](https://github.com/nihalshaikh-analyst/Waze-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/Waze%20Churn%20Data%20Understsnding%20Findings.pptx)
+
+
+![Presentations and Key Insight](https://github.com/nihalshaikh-analyst/Waze-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/Waze%20data%20understanding%20presentation.png)
+
+
+## Insights
+
+**1. This dataset contains 82% retained users and 18% churned users.**
+
+**2. The dataset contains 12 unique variables with types including objects, floats, and integers; the label column is missing 700 values with no indication that the omissions are non-random.**
+
+**3. Churned users averaged ~3 more drives in the last month than retained users.**
+
+**4. Retained users used the app on over twice as many days as churned users in the last month.**
+
+**5. The median churned user drove ~200 more kilometers and 2.5 more hours during the last month than the median retained user.**
+
+**6. Churned users had more drives in fewer days, and their trips were farther and longer in duration. Perhaps this is suggestive of a user profile; our team will have to continue exploring!**
+
+**7. The median user who churned drove 698 kilometers each day they drove last month, which is about 240% the per-drive-day distance of retained users.**
+
+**8. Regardless of user churn, the users represented in this data drive a lot! It is probably safe to assume that this data does not represent typical drivers at large.**
+
+
+## Next Step
+
+**"Our team recommends gathering more data on the super-drivers. It's possible that the reason they’re driving so much is also the reason why the Waze app does not meet their specific set of needs, which may differ from the typical driver."**
+
+**"The immediate next step is to conduct thorough EDA and develop data visualizations to illustrate the narrative behind the data and guide future project decisions."**
+
+
 ## Step by Step Process
 
 **1. Understand the situation**
@@ -186,64 +249,6 @@ Next, compare the medians of each variable for churned and retained users. The r
 
 - No. The churn rate for both iPhone and Android users was within one percentage point of each other. There is nothing suggestive of churn being correlated with device.
 
-
-## Project Status
-
-🎯 **Target Goal:**
-
-- Inspect user data to learn important relationships between variables.
-  
-
-  
-🎯 **Methods:**
-
-- Built a dataframe
-  
-- Each row represents a single observation, and each column represents a single variable
-
-- Collected preliminary statistics
-  
-- Analyzed user behavior
-  
-
-  
-🎯 **Impact:**
-
-- Our team determined important relationships between variables that will guide further analysis of user data
-
-
-## Storytelling Finding and Persentation
-
-[Presentation](https://github.com/nihalshaikh-analyst/Waze-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/Waze%20Churn%20Data%20Understsnding%20Findings.pptx)
-
-
-![Presentations and Key Insight](https://github.com/nihalshaikh-analyst/Waze-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/Waze%20data%20understanding%20presentation.png)
-
-
-## Insights
-
-**1. This dataset contains 82% retained users and 18% churned users.**
-
-**2. The dataset contains 12 unique variables with types including objects, floats, and integers; the label column is missing 700 values with no indication that the omissions are non-random.**
-
-**3. Churned users averaged ~3 more drives in the last month than retained users.**
-
-**4. Retained users used the app on over twice as many days as churned users in the last month.**
-
-**5. The median churned user drove ~200 more kilometers and 2.5 more hours during the last month than the median retained user.**
-
-**6. Churned users had more drives in fewer days, and their trips were farther and longer in duration. Perhaps this is suggestive of a user profile; our team will have to continue exploring!**
-
-**7. The median user who churned drove 698 kilometers each day they drove last month, which is about 240% the per-drive-day distance of retained users.**
-
-**8. Regardless of user churn, the users represented in this data drive a lot! It is probably safe to assume that this data does not represent typical drivers at large.**
-
-
-## Next Step
-
-**"Our team recommends gathering more data on the super-drivers. It's possible that the reason they’re driving so much is also the reason why the Waze app does not meet their specific set of needs, which may differ from the typical driver."**
-
-**"The immediate next step is to conduct thorough EDA and develop data visualizations to illustrate the narrative behind the data and guide future project decisions."**
 
 
 
