@@ -214,10 +214,10 @@ Next, compare the medians of each variable for churned and retained users. The r
 
 ## Storytelling Finding and Persentation
 
-[Presentation](https://github.com/nihalshaikh-analyst/Waze-Churn-Data-Understanding-and-Analysis/blob/main/Waze%20Churn%20Presentaions%20and%20Insights.pptx)
+[Presentation](https://github.com/nihalshaikh-analyst/Waze-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/Waze%20Churn%20Data%20Understsnding%20Findings.pptx)
 
 
-![Presentations and Key Insight](https://github.com/nihalshaikh-analyst/Waze-Churn-Data-Understanding-and-Analysis/blob/main/Presentations%20and%20Key%20Insights.png)
+![Presentations and Key Insight](https://github.com/nihalshaikh-analyst/Waze-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/Waze%20data%20understanding%20presentation.png)
 
 
 ## Insights
