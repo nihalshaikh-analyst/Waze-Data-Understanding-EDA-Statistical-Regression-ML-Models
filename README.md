@@ -92,6 +92,9 @@ Waze’s data team is in the earliest stages of the churn project. The following
 
 
 
+## Jupyter Notebook
+
+[Notebook](https://github.com/nihalshaikh-analyst/Waze-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/Waze%20churn%20data%20understsnding.ipynb)
 
 
 
