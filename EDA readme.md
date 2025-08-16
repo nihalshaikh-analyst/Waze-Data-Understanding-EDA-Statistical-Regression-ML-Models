@@ -2,7 +2,8 @@
 
 This project uses a dataset called waze_app_dataset.csv. It contains synthetic data created for this project in partnership with Waze. Data analyze, clean, process, data analysis by using Python and its Library **pandas, numpy, matplotlib.pyplot, seaborn** with presentation in Jupyter Notebook.
 
-[Waze Dataset](https://github.com/nihalshaikh-analyst/Waze-Churn-Data-Understanding-and-Analysis/blob/main/waze_app_dataset.csv)
+
+![waze logo](https://github.com/nihalshaikh-analyst/Waze-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/waze%20logo.png)
 
 
 
@@ -23,7 +24,7 @@ This project uses a dataset called waze_app_dataset.csv. It contains synthetic d
 
 - Share your results with the data team
 
-
+[Waze Dataset](https://github.com/nihalshaikh-analyst/Waze-Churn-Data-Understanding-and-Analysis/blob/main/waze_app_dataset.csv)
 
 
 ![waze logo](https://github.com/nihalshaikh-analyst/Waze-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/waze%20logo.png)
