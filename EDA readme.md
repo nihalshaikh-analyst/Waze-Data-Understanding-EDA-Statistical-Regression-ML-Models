@@ -27,7 +27,6 @@ This project uses a dataset called waze_app_dataset.csv. It contains synthetic d
 [Waze Dataset](https://github.com/nihalshaikh-analyst/Waze-Churn-Data-Understanding-and-Analysis/blob/main/waze_app_dataset.csv)
 
 
-![waze logo](https://github.com/nihalshaikh-analyst/Waze-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/waze%20logo.png)
 
 
 
