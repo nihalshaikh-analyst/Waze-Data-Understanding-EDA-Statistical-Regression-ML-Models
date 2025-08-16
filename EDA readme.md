@@ -42,6 +42,11 @@ This project uses a dataset called waze_app_dataset.csv. It contains synthetic d
 ### The Waze data team is currently developing a data analytics project aimed at increasing overall growth by preventing monthly user churn on the Waze app. Thorough exploratory data analysis (EDA) enables Waze to make better decisions about how to proactively target users likely to churn, thereby improving retention and overall customer satisfaction. This report offers details and key insights from Milestone 3, which impact the future development of the overall project. 
 
 
+[Presentations](https://github.com/nihalshaikh-analyst/Waze-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/Waze%20EDA%20Findings.pptx)
+
+
+![Presentations](https://github.com/nihalshaikh-analyst/Waze-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/Waze%20EDA%20presentataion.png)
+
 <img width="629" height="297" alt="image" src="https://github.com/user-attachments/assets/e691d982-6081-4ed9-8e98-166af4d232b9" />
 
 **The churn rate is highest for people who didn't use Waze much during the last month.**
